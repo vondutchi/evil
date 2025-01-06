@@ -1,0 +1,12 @@
+# Ignorera allt utanför projektmappen
+/*
+!/Desktop/kazakhstanBotUpdate/kazakhstanBot-master/
+
+# Ignorera vanliga operativsystem- och IDE-filer
+.DS_Store
+Thumbs.db
+.idea/
+__pycache__/
+.vscode/
+*.log
+.env
